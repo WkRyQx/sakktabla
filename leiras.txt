@@ -1,0 +1,6 @@
+Hozz létre egy 8x8-as táblázatot, majd formázd css segítségével.
+Szükséges CSS stílusok:
+- Border
+- Background color
+- Width
+ Height

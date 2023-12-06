@@ -1,0 +1,11 @@
+.fehér{
+    background-color: white;
+}
+.fekete{
+    background-color: black;
+}
+table{
+    width: 1000px;
+    height: 850px;
+    border: 1px solid black;
+}
